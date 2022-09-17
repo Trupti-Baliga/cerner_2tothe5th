@@ -1,0 +1,32 @@
+/*
+  Bhai Lang
+  Run this online here: https://bhailang.js.org/
+  OR 
+  Refer this doc for installation and usage: https://github.com/DulLabs/bhai-lang#bhai-lang
+  Run using: bhailang kya_hai.bhai
+  
+  cerner_2tothe5th_2022
+  
+  This program prints out the first 10 numbers from the Fibonacci sequence.
+*/
+
+hi bhai
+  bol bhai "Engineering Culture";
+  bol bhai "2^5 is back!";
+  bol bhai "The Fibonacci sequence:";
+   
+  bhai ye hai a = 0;
+  bhai ye hai b = 1;
+  bhai ye hai c = a + b;
+  bol bhai a;
+  bol bhai b;
+
+  bhai ye hai i = 3;
+  jab tak bhai (i <= 10) {
+    bol bhai c;
+    a = b;
+    b = c;
+    c = a + b;
+    i +=1;
+  }
+bye bhai
