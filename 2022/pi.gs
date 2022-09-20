@@ -1,6 +1,6 @@
 ;''
 6666,-2%{2+.2/@*\/10.3??2*+}*
-`100<~\; #truncate for webpage purposes
+`100<~\;
 
 # Print out 100 digits of pi.
 # Run it online here -  http://golfscript.apphb.com/
