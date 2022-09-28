@@ -1,0 +1,9 @@
+"cerner_2tothe5th_2022"
+"Run it online here https://tio.run/#trumpscript"
+"Ref: https://github.com/samshadwell/TrumpScript"
+make nomination "cerner"
+make election " 2 to the 5th"
+make votes " 2022"
+say nomination plus election
+say votes
+America is great.
