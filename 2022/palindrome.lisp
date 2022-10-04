@@ -1,4 +1,6 @@
-;; cerner_2tothe5th_2022
+;;cerner_2tothe5th_2022
+;;Palindrome Check
+;;Try it online - https://tio.run/#clisp
 
 (defun palindrome(x)
           (if (string= x (reverse x))
