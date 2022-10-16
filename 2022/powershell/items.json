@@ -1,0 +1,25 @@
+{
+ "items": [
+     {
+         "Date": "19/5/2022",
+         "ProductId": "0001",
+         "ProductName": "Fizzy Drink",
+         "Cost": "2.32",
+         "Currency": "USD"
+     },
+     {
+         "Date": "16/5/2022",
+         "ProductId": "0002",
+         "ProductName": "Dark Chocolate",
+         "Cost": "6.52",
+         "Currency": "INR"
+     },
+     {
+         "Date": "10/5/2022",
+         "ProductId": "0003",
+         "ProductName": "Snacks",
+         "Cost": "4.2",
+         "Currency": "USD"
+     }
+ ]
+}
